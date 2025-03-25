@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemaSpring.iml" filepath="$PROJECT_DIR$/TemaSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemaSpring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TemaSpring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemaSpring.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TemaSpring.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-CocotinaP.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-CocotinaP.iml" />
     </modules>
