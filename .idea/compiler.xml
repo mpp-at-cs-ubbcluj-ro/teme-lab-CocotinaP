@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Database" target="17" />
+      <module name="Database.main" target="17" />
+      <module name="Database.test" target="17" />
+      <module name="StartGradle" target="17" />
+      <module name="StartGradle.main" target="17" />
+      <module name="StartGradle.test" target="17" />
+      <module name="TemaSpring" target="17" />
+      <module name="TemaSpring.main" target="17" />
+      <module name="TemaSpring.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

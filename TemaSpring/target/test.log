@@ -1,0 +1,31 @@
+25 Mar 2025 14:31:38,651 WARN  org.springframework.context.support.AbstractApplicationContext 625 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestsRepoFile' defined in class path resource [RepairShopConfig.xml]: Failed to instantiate [org.example.repository.file.ComputerRepairRequestFileRepository]: Constructor threw exception
+25 Mar 2025 14:32:21,292 WARN  org.springframework.context.support.AbstractApplicationContext 625 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestsRepoFile' defined in class path resource [RepairShopConfig.xml]: Failed to instantiate [org.example.repository.file.ComputerRepairRequestFileRepository]: Constructor threw exception
+25 Mar 2025 14:33:18,498 WARN  org.springframework.context.support.AbstractApplicationContext 625 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestsRepoFile' defined in class path resource [RepairShopConfig.xml]: Failed to instantiate [org.example.repository.file.ComputerRepairRequestFileRepository]: Constructor threw exception
+25 Mar 2025 14:34:10,402 WARN  org.springframework.context.support.AbstractApplicationContext 625 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestsRepoFile' defined in class path resource [RepairShopConfig.xml]: Failed to instantiate [org.example.repository.file.ComputerRepairRequestFileRepository]: Constructor threw exception
+25 Mar 2025 14:41:33,975 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... null
+25 Mar 2025 14:41:33,984 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 14:41:33,985 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 14:41:33,987 ERROR org.example.repository.jdbc.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+25 Mar 2025 14:41:42,605 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... null
+25 Mar 2025 14:41:42,605 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 14:41:42,606 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 14:41:42,606 ERROR org.example.repository.jdbc.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+25 Mar 2025 14:44:39,460 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... null
+25 Mar 2025 14:44:39,465 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 14:44:39,465 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 14:44:39,468 ERROR org.example.repository.jdbc.JdbcUtils 43 getNewConnection - java.sql.SQLException: The url cannot be null
+25 Mar 2025 15:07:55,505 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/cosmi/OneDrive/Desktop/teme-lab-CocotinaP/TemaSpring/RepairShopDB.db
+25 Mar 2025 15:07:55,509 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 15:07:55,510 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 15:08:50,763 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/cosmi/OneDrive/Desktop/teme-lab-CocotinaP/TemaSpring/RepairShopDB.db
+25 Mar 2025 15:08:50,763 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 15:08:50,764 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 16:10:05,494 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/cosmi/OneDrive/Desktop/teme-lab-CocotinaP/TemaSpring/RepairShopDB.db
+25 Mar 2025 16:10:05,499 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 16:10:05,500 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 16:13:22,068 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/cosmi/OneDrive/Desktop/teme-lab-CocotinaP/TemaSpring/RepairShopDB.db
+25 Mar 2025 16:13:22,072 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 16:13:22,072 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+25 Mar 2025 16:13:55,941 INFO  org.example.repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/cosmi/OneDrive/Desktop/teme-lab-CocotinaP/TemaSpring/RepairShopDB.db
+25 Mar 2025 16:13:55,944 INFO  org.example.repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+25 Mar 2025 16:13:55,944 INFO  org.example.repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
